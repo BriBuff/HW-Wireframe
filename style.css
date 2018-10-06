@@ -10,12 +10,16 @@ body {
     width: 960px;
     font-size: 18px;
     text-align: center;
-
+    padding-left: 300px;
 }
 
 #container {
-    width: 80%;
-    margin: 10px;
+    width: 100%;
+    margin: 310px, 50px, 310px, 350px;
+}
+
+#container2 {
+    padding-left: 20px;
 }
 
 header, nav, section, aside, footer {
@@ -40,7 +44,8 @@ header, nav {
 
 section {
     width: 495px;
-    overflow: auto;
+    height: 345px;
+    overflow: clear;
 }
 
 aside {
@@ -49,17 +54,23 @@ aside {
 }
 
 article {
-    border: 1px solid #777;
+    
     color: #ebebeb;
     background-color: #777;
     text-align: center; 
+    height: 300px;
+    width: 450px;
 }
 
 h3, p {
+    border: 6px solid #777;
     color: #777;
     background-color: #ebebeb;
+    padding-left: 25px;
     width: 400px;
+    height: 50px;
     float: center;
+    align-items: center;
 }
 
 footer {
