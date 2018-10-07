@@ -15,15 +15,15 @@ body {
 
 #container {
     width: 100%;
-    margin: 310px, 50px, 310px, 350px;
 }
 
 #container2 {
     padding-left: 20px;
+    padding-right: 20px;
 }
 
 header, nav, section, aside, footer {
-    border: 6px solid #777;
+    border: 3px solid #777;
     background-color:#ebebeb;
 }
 
@@ -70,7 +70,6 @@ h3, p {
     width: 400px;
     height: 50px;
     float: center;
-    align-items: center;
 }
 
 footer {
