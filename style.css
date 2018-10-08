@@ -76,3 +76,5 @@ footer {
     clear: both;
     height: 75px;
  }
+
+ /* What is missing is finalized margins/padding/alignment. I had trouble getting the alignment of the sections to be aligned perfectly within each other. I also had trouble getting the aside and section closer.  */
